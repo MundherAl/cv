@@ -4,6 +4,7 @@ import Programming from '../sections/Progamming';
 import Layout from './Layout';
 import Divider from './components/aesthetic/Divider';
 import WorkExperience from '../sections/WorkExperience';
+import Education from '../sections/Education';
 
 export default function Home() {
     return (
@@ -16,6 +17,7 @@ export default function Home() {
             <Divider title={"Work Experience"} />
             <WorkExperience />
             <Divider title={"Education"} />
+            <Education />
             <Divider title={"Skills & Hobbies"} />
             <Divider title={"Extra-curricular"} />
             <Divider title={"Contact me!"} />

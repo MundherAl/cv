@@ -1,4 +1,4 @@
-import ExperienceSummary from "../pages/components/main/WorkplaceSummary";
+import ExperienceSummary from "../pages/components/main/ExperienceSummary";
 
 export default function WorkExperience() {
     return (
