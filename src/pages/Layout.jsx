@@ -5,7 +5,7 @@ export default function Layout({ children }) {
         <div className="w-[45vw] m-auto font-raleway">
             <header className="flex w-full h-[3em] justify-center items-center">
                 <p className="bg-amber-100/50 text-sm border-2 border-black px-4 py-1 box-shadow-black">
-                    want my spotify playlist? <b className="text-black">click here!</b>
+                    Want to see the code for this website? <b className="text-black">Click here!</b>
                 </p>
             </header>
             <nav className="flex h-[2em] justify-between border-b-2 border-slate-300 px-2">
