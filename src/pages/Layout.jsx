@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import NavigationLink from "./components/navbar/NavigationLink";
 
 export default function Layout({ children }) {

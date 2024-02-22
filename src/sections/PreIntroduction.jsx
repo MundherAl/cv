@@ -5,10 +5,10 @@ export default function PreIntroduction() {
     return (
         <div className="flex flex-row justify-between mx-2 py-8">
             <h1 className="w-[60%] text-4xl ">
-                Hello! I'm
-                <span className="block text-8xl text-teal-700 font-bold">Mundher.</span>
+                Hello, I'm
+                <span className="block text-8xl text-teal-500 font-bold">Mundher!</span>
                 <h2 className="flex flex-col text-4xl font-bold ">
-                    <span className="">Junior Web Devloper</span>
+                    <span className="">Junior Web Developer</span>
                 </h2>
             </h1>
             <div className="flex w-[40%] items-center justify-end">
