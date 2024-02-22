@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 
 body {
   @apply bg-gray-100;
@@ -19,4 +22,14 @@ code {
 
 .box-shadow-green {
   box-shadow: -3px 3px #15803d;
+}
+
+.box-shadow-black {
+  box-shadow: -3px 3px black;
+}
+
+@layer utilities {
+  .font-condensed {
+    font-stretch: ultra-expanded;
+  }
 }
