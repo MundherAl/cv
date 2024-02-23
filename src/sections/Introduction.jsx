@@ -1,6 +1,6 @@
 export default function Introduction() {
     return (
-        <div className="text-justify px-32">
+        <div className="text-lg text-justify px-32">
             Passionate computer scientist based in Düsseldorf striving to leave the
             world a better place. My thinking is multi-disciplinary, I love to learn
             and I like to exercise my creative thinking.
