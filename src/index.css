@@ -13,6 +13,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-image: radial-gradient(
+      circle at center,
+      rgb(215, 215, 215) 0.0625rem,
+      transparent 0
+    ), radial-gradient(circle at center, rgb(215, 215, 215) 0.0625rem, transparent 0);
+  background-size: 1rem 1rem;
+  /* background-position: 0 0, 0.65rem 0.65rem; */
 }
 
 code {
